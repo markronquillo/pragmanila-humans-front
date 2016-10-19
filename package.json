@@ -1,0 +1,24 @@
+{
+  "name": "humans-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-11",
+    "laravel-elixir-vue": "^0.1.8",
+    "laravel-elixir-webpack-official": "^1.0.8"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "toastr": "^2.1.2",
+    "vue-progressbar": "^0.5.0",
+    "vue-toastr": "^2.0.3"
+  }
+}
